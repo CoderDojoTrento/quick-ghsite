@@ -19,7 +19,8 @@ quando viene visualizzato online, ma naturalmente puoi anche scrivere direttamen
 Se vuoi, puoi collegare il progetto sul tuo computer a GitHub. Per farlo, sul tuo computer apri la console e digita:
 
 ```bash
-git clone https://github.com/CoderDojoTrento/altra-prova.git
+git clone https://github.com/CoderDojoTrento/quick-ghsite.git
+
 ```
 
 mettendo la URL del progetto online che trovi cliccando sul pulsante verde 'Clone or download'
@@ -66,6 +67,7 @@ origin  https://github.com/CoderDojoTrento/quick-ghsite.git (fetch)
 origin  https://github.com/CoderDojoTrento/quick-ghsite.git (push)
 
 ```
+
 Significa che il repository sul tuo computer 'sa' che esiste un repository su GitHub all'indirizzo che vedi, e per 
 usare quell'indirizzo puoi usare l'identificativo più corto _origin_
 
@@ -78,5 +80,4 @@ Il comanda manda il tuo branch corrente (master) al branch `master` che sta sul 
 git push origin master
 ```
 
-
-Adesso il sito dovrebbe essere disponibile ad una URL tipo https://coderdojotrento.github.com/quick-ghsite
+Adesso il sito dovrebbe essere disponibile ad una URL tipo [https://coderdojotrento.github.com/quick-ghsite/](https://coderdojotrento.github.io/quick-ghsite/)
