@@ -13,6 +13,9 @@ Fatto ! Già adesso puoi editare il file README.md direttamente online, e anche 
 Il README.md è scritto in formato MarkDown, e GitHub riuscirà automaticamente a convertirlo al volo in file html 
 quando viene visualizzato online, ma naturalmente puoi anche scrivere direttamente file html da zero.
 
+**NOTA**: A volte GitHub potrebbe metterci alcuni secondi ad aggiornare quello che vedi all'indirizzo del sito,
+ specie se hai scritto file markdown, quindi se non vedi cambiamenti puoi provare a fare un 'refresh' della pagina più tardi
+
 
 # Collegare il progetto sul tuo computer a GitHub
 
